@@ -14,7 +14,7 @@
  
 <br>
  
-### Este é um projeto feito em um curso de programação, estou a disposição para desenvolver um projeto de acordo para a sua nescessidade.
+### Este é um projeto feito em um curso de programação, estou a disposição para desenvolver um projeto de acordo a sua nescessidade.
  
 <div> 
   <a href="https://www.youtube.com/BoranosComunicacao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
